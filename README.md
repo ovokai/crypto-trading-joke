@@ -3,9 +3,9 @@
 Entry for the make.fun competition
 [Laugh Track: The Crypto Trading Joke Contest](https://make.fun/c/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a).
 
-![competition](https://make.fun/badge/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a.svg)
-![rank](https://make.fun/badge/ovokai/crypto-trading-joke/rank.svg)
-![reward](https://make.fun/badge/ovokai/crypto-trading-joke/reward.svg)
+[![make.fun · u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a](https://make.fun/badge/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a.svg)](https://make.fun/bounty/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a)
+[![rank](https://make.fun/badge/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a/ovokai/crypto-trading-joke/rank.svg)](https://make.fun/bounty/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a)
+[![reward](https://make.fun/badge/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a/ovokai/crypto-trading-joke/reward.svg)](https://make.fun/bounty/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a?utm_source=github&utm_medium=readme&utm_campaign=u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a)
 
 Bounty page: [make.fun/c/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a](https://make.fun/c/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a)
 
